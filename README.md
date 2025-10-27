@@ -1,35 +1,24 @@
-<!-- Profile README for GitHub: Yatish Chandra Emmani -->
-
-<h1 align="center">👋 Hi, I'm Yatish Chandra Emmani</h1>
-
-<h3 align="center">
-Data Engineer | Data Analyst | Python Developer | Cloud & AI Enthusiast
-</h3>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/yatishchandraemmani/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
-</p>
+# Yatish Chandra Emmani 👋
+**Data Engineer | Data Analyst | Python Developer | Cloud & AI Enthusiast**
 
 ---
 
 ### 💡 About Me  
-Data professional with **4+ years of experience** in designing **scalable ETL pipelines**, building **real-time data platforms**, and optimizing **cloud-native architectures**.  
-Passionate about building **reliable, high-performance data systems** that power analytics, automation, and AI-driven insights.  
-
-- 🧩 Experienced in **ETL, Big Data, and Cloud Engineering**  
-- ☁️ Hands-on with **AWS, Azure, Terraform, Docker**  
-- 📈 Strong background in **data modeling, visualization, and ML pipelines**  
-- 💬 Open to collaboration on **data-driven and AI-powered projects**
+Data professional with 4+ years of experience in **designing scalable ETL pipelines**, **building real-time data platforms**, and **optimizing cloud-native architectures**.  
+Passionate about building **reliable, high-performance data systems** that power analytics, automation, and AI-driven insights.
 
 ---
 
 ### ⚙️ Key Skills & Expertise  
-
-**Data Engineering:** ETL Pipelines, PySpark, Pandas, SQL Optimization  
-**Cloud & DevOps:** AWS, Azure, Terraform, Docker, CI/CD  
-**Analytics & Visualization:** Power BI, Tableau, Streamlit  
-**Machine Learning:** Scikit-learn, TensorFlow, PyTorch  
-**Web & API Development:** Flask, Django, REST APIs  
+- ETL Pipeline Design & Data Engineering  
+- Big Data Processing (PySpark, Pandas)  
+- SQL Optimization & Database Design (PostgreSQL, Redshift, DynamoDB)  
+- Cloud Platforms (AWS, Azure)  
+- Infrastructure as Code (Terraform, AWS CloudFormation)  
+- Data Visualization (Power BI, Tableau, Streamlit)  
+- Machine Learning & AI (Scikit-learn, TensorFlow, PyTorch)  
+- REST API Development (Flask, Django)  
+- CI/CD Automation & DevOps  
 
 ---
 
@@ -66,34 +55,12 @@ Passionate about building **reliable, high-performance data systems** that power
 ---
 
 ### 🌟 Featured Projects  
-
-- 🏙️ **[City Library Management System](#)** — Designed scalable MySQL architecture for 50K+ items and 10K+ users.  
-- 🛒 **[Retail Sales Forecasting](#)** — Built a time-series ML model improving inventory accuracy by 85%.  
-- ✈️ **[Flight Data Automation (Apache Oozie)](#)** — Automated ETL workflows; improved data processing efficiency by 30%.  
-- 💓 **[Arrhythmia Detection Model](#)** — Developed Naive Bayes classifier achieving 95% detection accuracy.
-
----
-
-### 🧾 Certifications  
-- AWS Certified Data Engineer – Associate *(In Progress)*  
-- Microsoft Azure Data Fundamentals  
-- TensorFlow Developer Certificate  
-
----
-
-### 🏆 Highlights  
-- ⚙️ Built scalable ETL pipelines processing 10M+ records daily  
-- ☁️ Automated data infrastructure with Terraform on AWS  
-- 📊 Deployed real-time analytics dashboards using Power BI & Tableau  
-- 🤖 Integrated ML models into production via Flask APIs  
+- 🏙️ **City Library Management System** – Scalable MySQL architecture for 50K+ items and 10K+ users.  
+- 🛒 **Retail Sales Forecasting Model** – Time-series ML model (85% accuracy) optimizing retail inventory.  
+- ✈️ **Flight Data Automation (Apache Oozie)** – Automated ETL workflow, +30% processing efficiency.  
+- 💓 **Arrhythmia Detection Model** – Naive Bayes classifier achieving 95% detection accuracy.    
 
 ---
 
 ### 🔗 Connect With Me  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/yatishchandraemmani/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:yatishchandraemmani@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
-</p>
-
-<p align="center">✨ *Let’s build data-driven systems that make an impact!* ✨</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yatishchandraemmani/)
